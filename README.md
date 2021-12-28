@@ -2,7 +2,7 @@
 
 #### This is my first computer vision, necessary to enter the computer vision area of ​​the Artificial Intelligence group at the University of São Paulo called Turing USP. Through it I learned several tools to deal with deep learning and image processing.
 
-## The main concepts learned were:
+## The main concepts and tools learned were:
 
 1. Opencv
 2. Pytorch
@@ -29,13 +29,10 @@
 ## There are two parts to this project:
 
 1. Image manipulations
-
-#### In this step, I showed my mastery over the images: reading, manipulating the RGB bands and even applying transformations over the images.
-
-####Are you curious? Click here to go straight to this part.
+  * In this step, I showed my mastery over the images: reading, manipulating the RGB bands and even applying transformations over the images.
+  * Are you curious? Click [here](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/image_processing.ipynb) to go straight to this part.
 
 2. Deep Learning
 
-#### Now comes the biggest challenge in this project, which is deep learning. Widely known in the data world, where it uses the power of convolution!
-
-#### Click here to go straight to this part.
+   * Now comes the biggest challenge in this project, which is deep learning. Widely known in the data world, where it uses the power of convolution!
+   * Click [here](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/deep_learning.ipynb) to go straight to this part.
