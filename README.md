@@ -33,6 +33,5 @@
   * Are you curious? Click [here](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/image_processing.ipynb) to go straight to this part.
 
 2. Deep Learning
-
-   * Now comes the biggest challenge in this project, which is deep learning. Widely known in the data world, where it uses the power of convolution!
-   * Click [here](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/deep_learning.ipynb) to go straight to this part.
+  * Now comes the biggest challenge in this project, which is deep learning. Widely known in the data world, where it uses the power of convolution!
+  * Click [here](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/deep_learning.ipynb) to go straight to this part.
