@@ -1,6 +1,6 @@
 # Computer Vision Project
 
-#### This is my first computer vision, necessary to enter the computer vision area of ​​the Artificial Intelligence group at the University of São Paulo called Turing USP. Through it I learned several tools to deal with deep learning and image processing.
+#### This is my first computer vision project, necessary to enter the computer vision area of ​​the Artificial Intelligence group at the University of São Paulo called Turing USP. Through it I learned several tools to deal with deep learning and image processing.
 
 ## The main concepts and tools learned were:
 
@@ -22,9 +22,9 @@
 7. Sklearn
 8. Scikit-image
 9. glob
-10. the
+10. os
 
-#### PyTorch was the main library used for deep learning while the others were mainly in image manipulation and image files.
+#### PyTorch was the main library used for deep learning while the others were mainly in image manipulation, image files and image visualization.
 
 ## There are two parts to this project:
 
