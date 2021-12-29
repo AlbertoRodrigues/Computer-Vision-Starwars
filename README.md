@@ -31,9 +31,13 @@
 1. Image manipulations
   * In this step, I showed my mastery over the images: reading, manipulating the RGB bands and even applying transformations over the images.
   * For example, considering the following original image:
+
     ![original](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/images/original.png)
+
   * Some manipulations and transformations performed were:
+
     ![examples](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/images/img_manipulation_ex.png)
+
   * Are you curious? Click [here](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/image_processing.ipynb) to go straight to this part.
 
 2. Deep Learning
