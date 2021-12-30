@@ -55,6 +55,7 @@
     1. Principal Component Analysis and then Logistic Regression
 
     2. Convolutional Neural Network
+
       ![cnn](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/images/cnn.jpg)
 
   * Click [here](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/deep_learning.ipynb) to go straight to this part.
