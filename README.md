@@ -49,7 +49,12 @@
        ![Storm](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/images/todas_imagens/Stormtrooper/040X3AL07CWIHZLIDMN7ND6TSK9E3X.jpg)
     3. ### Darth Vader
        ![Darth](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/images/todas_imagens/Darth%20Vader/0C2JUULO3JEZZWUQI8CFA830CNSGBY.jpg)
-    We will use two methods:
+
+    We will use two methods for this purpose:
+
     1. Principal Component Analysis and then Logistic Regression
+
     2. Convolutional Neural Network
+      ![cnn](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/images/cnn.jpg)
+
   * Click [here](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/deep_learning.ipynb) to go straight to this part.
