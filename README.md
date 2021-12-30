@@ -41,5 +41,15 @@
   * Are you curious? Click [here](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/image_processing.ipynb) to go straight to this part.
 
 2. Deep Learning
-  * Now comes the biggest challenge in this project, which is deep learning. Widely known in the data world, where it uses the power of convolution!
+  * Now comes the biggest challenge in this project, which is deep learning. 
+  * We apply some algorithms to classify three classes of images:
+    1. ### Yoda
+       ![Yoda](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/images/todas_imagens/Yoda/0G4Q1KHAIQYNUU270TDGP0EAPPAL2F.jpg)
+    2. ### Stormtrooper
+       ![Storm](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/images/todas_imagens/Stormtrooper/040X3AL07CWIHZLIDMN7ND6TSK9E3X.jpg)
+    3. ### Darth Vader
+       ![Darth](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/images/todas_imagens/Darth%20Vader/0C2JUULO3JEZZWUQI8CFA830CNSGBY.jpg)
+    We will use two methods:
+    1. Principal Component Analysis and then Logistic Regression
+    2. Convolutional Neural Network
   * Click [here](https://github.com/AlbertoRodrigues/computer_vision_starwars/blob/main/deep_learning.ipynb) to go straight to this part.
